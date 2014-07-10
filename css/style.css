@@ -1,0 +1,91 @@
+/* RESET */
+/* line 15, ../scss/custom-reset.scss */
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+/* HTML5 display-role reset for older browsers */
+/* line 25, ../scss/custom-reset.scss */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section, main {
+  display: block;
+  overflow: hidden;
+}
+
+/* line 29, ../scss/custom-reset.scss */
+body {
+  font-size: 1em;
+}
+
+/* line 32, ../scss/custom-reset.scss */
+ol, ul {
+  list-style: none;
+}
+
+/* line 35, ../scss/custom-reset.scss */
+blockquote, q {
+  quotes: none;
+}
+
+/* line 39, ../scss/custom-reset.scss */
+blockquote:before, blockquote:after,
+q:before, q:after {
+  content: '';
+  content: none;
+}
+
+/* line 43, ../scss/custom-reset.scss */
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+/* line 48, ../scss/custom-reset.scss */
+* {
+  zoom: 1;
+}
+
+/* line 51, ../scss/custom-reset.scss */
+a {
+  text-decoration: none;
+}
+
+/* /RESET */
+/* COLORS */
+/* /COLORS */
+/* COMPASS */
+/* /COMPASS */
+/* GENERAL CLASSES */
+/* line 14, ../scss/style.scss */
+.clear {
+  clear: both;
+}
+
+/* /GERENAL CLASSES */
+/* MEDIA QUERIES */
+/* WXGA - Ultrabook */
+/* SXGA - Small desktop */
+/* WXGA - Netbook */
+/* XGA - Ipad */
+/* High-end Windows Phone */
+/* DVGA - Iphone */
+/* WVGA - Low-end Windows Phone */
+/* HVGA (old Iphones, small Androids) */
+/* /MEDIA QUERIES */
